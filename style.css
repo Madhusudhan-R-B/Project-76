@@ -1,0 +1,54 @@
+center{
+    font-family: 'Comfortaa', cursive;
+}
+
+#blackholetitle{
+    width: 300px;
+    height: 200px;
+}
+
+#blackhole_title{
+    background-color:whitesmoke;
+    padding:5px;
+    
+}
+
+#pageTitle{
+    font-size: 30px;
+}
+
+body{
+    background-image: url("Background.jpeg");
+    background-size: 1450px;
+}
+
+#title{
+    background-color:lightcyan;
+    margin-top:-15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#titletext{
+    color:dodgerblue;
+    font-size: 50px;
+}
+
+#backbutton{
+    width: 75px;
+    height: 75px;
+}
+
+#listbh{
+    color:turquoise;
+}
+
+#text{
+    background-color: white;
+    padding:5px;
+}
+
+#section{
+    width: 80%;
+    border-radius: 50px;
+}
